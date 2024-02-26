@@ -1,3 +1,11 @@
+act.bat
+set path=c:\Users\jkraxberger\pyproj\pp\repox\lib;%path%
+set PYTHONPATH=C:\Users\jkraxberger\pyproj\pp\repox\lib
+%~dp0venv\Scripts\activate
+
+dact.bat
+%~dp0\venv\Scripts\deactivate
+
 To start the environment:
 1. act <Enter>
 2. todoserver tasks.db
