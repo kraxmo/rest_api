@@ -1,3 +1,5 @@
+This project creates an API web service using Flask and SQLAlchemy
+
 act.bat
 set path=c:\Users\jkraxberger\pyproj\pp\repox\lib;%path%
 set PYTHONPATH=C:\Users\jkraxberger\pyproj\pp\repox\lib
