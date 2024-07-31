@@ -1,4 +1,6 @@
-This project creates an API web service using Flask and SQLAlchemy
+This project creates an API web service using Flask and SQLAlchemy on a Windows server
+
+Support Files:
 
 act.bat
 set path=c:\Users\jkraxberger\pyproj\pp\repox\lib;%path%
